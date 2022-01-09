@@ -28,6 +28,18 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+## Selected Projects
+
+### Machine Learning/Data Science
+- [Converting Math Equation Images to Latex Code](https://github.com/kingyiusuen/image-to-latex)
+- [Insurance Fraud Detection](https://github.com/kingyiusuen/travelers-insurance-fraud)
+- [Disaster Tweet Classification](https://www.kaggle.com/kingyiusuen/nlp-with-disaster-tweets)
+- [Playing Snake with AI](https://github.com/kingyiusuen/snake)
+
+### Full-stack Development
+- [Note-taking App](https://github.com/kingyiusuen/easynote)
+- [Discord Clone](https://github.com/kingyiusuen/discord-clone)
+
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kingyiusuen&show_icons=true)
