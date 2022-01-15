@@ -34,6 +34,7 @@
 ### Machine Learning/Data Science
 - [Converting Math Equation Images to Latex Code](https://github.com/kingyiusuen/image-to-latex)
 - [Insurance Fraud Detection](https://github.com/kingyiusuen/travelers-insurance-fraud)
+- [Text Classification: r/MachineLearning vs r/LearningMachineLearning](https://github.com/kingyiusuen/reddit-post-classification)
 - [Disaster Tweet Classification](https://www.kaggle.com/kingyiusuen/nlp-with-disaster-tweets)
 - [Playing Snake with AI](https://github.com/kingyiusuen/snake)
 
